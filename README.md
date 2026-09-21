@@ -2,6 +2,9 @@
 
 **Turn requirements into practical test coverage.**
 
+> **What this repo is:** a QA-process and QA-tooling portfolio piece. It demonstrates how I think about turning requirements into test coverage, and it happens to be packaged as a small working app I built myself (Next.js/TypeScript/Jest/CI) rather than a set of manual test documents. The "testing" it does for you is AI-generated QA documentation, not automated execution against a real product — see the Tech stack and Project structure sections below for what's actually implemented and covered by Jest.
+
+
 TestMind AI is an open-source, AI-powered QA assistant. Paste a User Story,
 Acceptance Criteria, PRD excerpt, or feature description, click **Generate**,
 and get structured, practical QA documentation in seconds:
